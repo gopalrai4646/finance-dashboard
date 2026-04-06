@@ -36,16 +36,3 @@ A modern, clean, and highly interactive Finance Dashboard web application built 
    ```
 4. Open your browser at `http://localhost:3000`.
 
-## 📝 Assumptions & Decisions
-
-- **Mock Data**: The application uses a set of initial mock transactions to demonstrate functionality.
-- **Role System**: The role switcher is a frontend-only implementation for demonstration purposes.
-- **Responsive Design**: The sidebar is optimized for desktop, while the main content area adjusts for all screen sizes.
-- **Color Palette**: Focused on neutral tones (Gray-900, Gray-50) with functional accents (Green-500 for income, Red-500 for expenses, Amber-500 for warnings).
-
-## 📸 Screenshots
-
-*(Placeholders for screenshots)*
-- Dashboard Overview
-- Transactions Table
-- Smart Insights Panel
